@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-![GitHub contributors](https://img.shields.io/github/contributors/albertoibernon/Autonomous_Surveillance_Robot)
+![GitHub contributors](https://github.com/Drq13112/Urban-flow-management-using-fuzzy-controlled-traffic-lights/main)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 <br />
 <div align="center">
@@ -10,7 +10,7 @@
   <p align="center">
     Appliacation of fuzzy control to traffic lights of an urban scenario to test the improvement of its impleation in area such as waitting time and avg speed
     <br />
-    <a href="https://github.com/Drq13112/Urban-flow-management-using-fuzzy-controlled-traffic-lights/main/report.pdf"><strong>Explore the docs »</strong></a>
+    <a href="report.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#usage">View Demo</a>
