@@ -1,6 +1,4 @@
 <a name="readme-top"></a>
-
-![GitHub contributors](https://github.com/Drq13112/Urban-flow-management-using-fuzzy-controlled-traffic-lights/main)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 <br />
 <div align="center">
