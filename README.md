@@ -14,8 +14,6 @@
     <br />
     <br />
     <a href="#usage">View Demo</a>
-    ·
-    <a href="#contact">Contact</a>
   </p>
 </div>
 
