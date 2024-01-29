@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-12-28 17:25:01 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <flow id="CochesAbajoDown" begin="0.00" departLane="0" departSpeed="5.55" arrivalLane="0" from="E0" to="E1" end="10000.00" probability="0.01042"/>
+    <flow id="CochesArribaUp" begin="0.00" departLane="0" departSpeed="5.55" arrivalLane="0" from="-E1" to="-E0" end="10000.00" probability="0.01042"/>
+    <personFlow id="PersonasDcha" begin="0.00" color="green" end="10000.00" probability="0.01042">
+        <personTrip from="-E3" to="E2" lines="ANY"/>
+    </personFlow>
+    <personFlow id="PersonasIzq" begin="0.00" color="green" end="10000.00" probability="0.01002">
+        <personTrip from="-E2" to="E3" lines="ANY"/>
+    </personFlow>
+    <flow id="CochesArribaDown" begin="5.00" departLane="1" departSpeed="5.55" arrivalLane="1" color="magenta" from="-E1" to="-E0" end="10000.00" probability="0.01042"/>
+    <flow id="CochesAbajoUp" begin="10.00" departLane="1" departSpeed="5.55" arrivalLane="1" color="magenta" from="E0" to="E1" end="10000.00" probability="0.01042"/>
+</routes>

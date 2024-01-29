@@ -1,0 +1,7 @@
+# Usage: pip install -r requirements.txt
+
+scikit-fuzzy==0.4.2
+matplotlib>=3.2.2
+wandb==0.16.2
+numpy==1.26.3
+# Si estas usando una versión de python<3.9 tienes que instalar pickle: pip install pickle

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-01-05 15:50:03 by Eclipse SUMO sumo Version 1.19.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="tutorial.net.xml"/>
+        <route-files value="tutorial.rou.xml"/>
+        <additional-files value="tutorial.add.xml,tutorial.med.add.xml"/>
+    </input>
+
+</configuration>

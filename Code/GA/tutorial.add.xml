@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-01-05 15:50:01 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <entryExitDetector id="Ped10_AbajoDcha" pos="320.00,30.00" period="10.00" file="Ped10_AbajoDcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E27_0" pos="72.90"/>
+        <detEntry lane="E39_0" pos="4.60"/>
+        <detExit lane="-E39_0" pos="91.73"/>
+        <detExit lane="E25_0" pos="4.76"/>
+        <detExit lane="-E25_0" pos="120.96"/>
+        <detExit lane="-E36_0" pos="4.79"/>
+        <detExit lane="E36_0" pos="75.67"/>
+        <detExit lane="-E27_0" pos="4.52"/>
+        <detExit lane="E27_0" pos="67.29"/>
+        <detExit lane="E39_0" pos="10.31"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped10_AbajoIzq" pos="280.00,30.00" period="10.00" file="Ped10_AbajoIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E36_0" pos="75.72"/>
+        <detEntry lane="-E27_0" pos="4.42"/>
+        <detExit lane="E27_0" pos="72.81"/>
+        <detExit lane="E39_0" pos="4.56"/>
+        <detExit lane="-E39_0" pos="91.59"/>
+        <detExit lane="E25_0" pos="4.71"/>
+        <detExit lane="-E25_0" pos="120.96"/>
+        <detExit lane="-E36_0" pos="4.74"/>
+        <detExit lane="E36_0" pos="69.92"/>
+        <detExit lane="-E27_0" pos="9.80"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped10_ArribaDcha" pos="320.00,70.00" period="10.00" file="Ped10_ArribaDcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E39_0" pos="91.68"/>
+        <detEntry lane="E25_0" pos="4.76"/>
+        <detExit lane="-E25_0" pos="120.91"/>
+        <detExit lane="-E36_0" pos="4.84"/>
+        <detExit lane="E36_0" pos="75.67"/>
+        <detExit lane="-E27_0" pos="4.47"/>
+        <detExit lane="E27_0" pos="72.85"/>
+        <detExit lane="E39_0" pos="4.60"/>
+        <detExit lane="-E39_0" pos="85.93"/>
+        <detExit lane="E25_0" pos="10.19"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped10_ArribaIzq" pos="280.00,70.00" period="10.00" file="Ped10_ArribaIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E25_0" pos="120.98"/>
+        <detEntry lane="-E36_0" pos="4.75"/>
+        <detExit lane="E36_0" pos="75.76"/>
+        <detExit lane="-E27_0" pos="4.39"/>
+        <detExit lane="E27_0" pos="72.88"/>
+        <detExit lane="E39_0" pos="4.59"/>
+        <detExit lane="-E39_0" pos="91.65"/>
+        <detExit lane="E25_0" pos="4.69"/>
+        <detExit lane="-E25_0" pos="115.32"/>
+        <detExit lane="-E36_0" pos="10.62"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped11_Abajo" pos="100.00,-70.00" period="10.00" file="Ped11_Abajo.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E1_0" pos="122.66"/>
+        <detEntry lane="-E29_0" pos="4.69"/>
+        <detExit lane="E29_0" pos="79.91"/>
+        <detExit lane="E37_0" pos="4.36"/>
+        <detExit lane="-E37_0" pos="70.85"/>
+        <detExit lane="E1_0" pos="4.68"/>
+        <detExit lane="-E1_0" pos="116.94"/>
+        <detExit lane="-E29_0" pos="10.33"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped11_ArribaDcha" pos="120.00,-30.00" period="10.00" file="Ped11_ArribaDcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E29_0" pos="79.97"/>
+        <detEntry lane="E37_0" pos="4.45"/>
+        <detExit lane="-E37_0" pos="70.83"/>
+        <detExit lane="E1_0" pos="4.73"/>
+        <detExit lane="-E1_0" pos="122.55"/>
+        <detExit lane="-E29_0" pos="4.67"/>
+        <detExit lane="E29_0" pos="74.16"/>
+        <detExit lane="E37_0" pos="9.89"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped11_ArribaIzq" pos="80.00,-30.00" period="10.00" file="Ped11_ArribaIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E37_0" pos="70.90"/>
+        <detEntry lane="E1_0" pos="4.69"/>
+        <detExit lane="-E1_0" pos="122.63"/>
+        <detExit lane="-E29_0" pos="4.77"/>
+        <detExit lane="E29_0" pos="79.93"/>
+        <detExit lane="E37_0" pos="4.40"/>
+        <detExit lane="-E37_0" pos="65.28"/>
+        <detExit lane="E1_0" pos="10.33"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped12_Abajo" pos="200.00,-70.00" period="10.00" file="Ped12_Abajo.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E29_0" pos="79.75"/>
+        <detEntry lane="E26_0" pos="4.83"/>
+        <detExit lane="-E26_0" pos="82.34"/>
+        <detExit lane="-E7_0" pos="4.94"/>
+        <detExit lane="E7_0" pos="72.04"/>
+        <detExit lane="E29_0" pos="4.91"/>
+        <detExit lane="-E29_0" pos="73.91"/>
+        <detExit lane="E26_0" pos="10.63"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped12_Arriba" pos="190.00,-30.00" period="10.00" file="Ped12_Arriba.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E7_0" pos="72.04"/>
+        <detEntry lane="-E26_0" pos="82.30"/>
+        <detEntry lane="E29_0" pos="4.90"/>
+        <detEntry lane="-E7_0" pos="4.89"/>
+        <detExit lane="-E29_0" pos="79.81"/>
+        <detExit lane="E26_0" pos="4.81"/>
+        <detExit lane="-E26_0" pos="76.54"/>
+        <detExit lane="E29_0" pos="10.64"/>
+        <detExit lane="-E7_0" pos="10.39"/>
+        <detExit lane="E7_0" pos="66.14"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped1_AbajoDcha" pos="-55.00,185.00" period="10.00" file="Ped1_AbajoDcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E31_0" pos="121.13"/>
+        <detEntry lane="E5_0" pos="4.42"/>
+        <detExit lane="-E31_0" pos="4.43"/>
+        <detExit lane="-E5_0" pos="96.49"/>
+        <detExit lane="E31_0" pos="116.22"/>
+        <detExit lane="E5_0" pos="9.42"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped1_AbajoIzq" pos="-95.00,185.00" period="10.00" file="Ped1_AbajoIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E31_0" pos="4.41"/>
+        <detExit lane="E31_0" pos="121.19"/>
+        <detExit lane="E5_0" pos="4.33"/>
+        <detExit lane="-E5_0" pos="96.44"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped1_Arriba" pos="-55.00,215.00" period="10.00" file="Ped1_Arriba.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E5_0" pos="96.49"/>
+        <detExit lane="E5_0" pos="4.28"/>
+        <detExit lane="E31_0" pos="121.06"/>
+        <detExit lane="-E31_0" pos="4.42"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped2_Abajo" pos="25.00,180.00" period="10.00" file="Ped2_Abajo.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E5_0" pos="95.75"/>
+        <detEntry lane="-E0_0" pos="125.99"/>
+        <detEntry lane="E0_0" pos="4.07"/>
+        <detEntry lane="-E6_0" pos="4.82"/>
+        <detExit lane="E5_0" pos="90.23"/>
+        <detExit lane="-E6_0" pos="10.31"/>
+        <detExit lane="E0_0" pos="9.96"/>
+        <detExit lane="-E0_0" pos="120.33"/>
+        <detExit lane="-E5_0" pos="4.95"/>
+        <detExit lane="E6_0" pos="93.09"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped2_Arriba" pos="42.00,215.00" period="10.00" file="Ped2_Arriba.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E5_0" pos="4.95"/>
+        <detEntry lane="E6_0" pos="93.02"/>
+        <detExit lane="-E5_0" pos="10.79"/>
+        <detExit lane="E6_0" pos="87.54"/>
+        <detExit lane="E5_0" pos="95.78"/>
+        <detExit lane="-E6_0" pos="4.75"/>
+        <detExit lane="-E0_0" pos="126.02"/>
+        <detExit lane="E0_0" pos="4.06"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped3_AbajoDcha" pos="165.00,180.00" period="10.00" file="Ped3_AbajoDcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E23_0" pos="76.09"/>
+        <detEntry lane="E24_0" pos="4.67"/>
+        <detExit lane="E23_0" pos="70.38"/>
+        <detExit lane="E24_0" pos="10.44"/>
+        <detExit lane="-E23_0" pos="4.51"/>
+        <detExit lane="-E6_0" pos="93.13"/>
+        <detExit lane="E6_0" pos="4.66"/>
+        <detExit lane="-E24_0" pos="125.93"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped3_AbajoIzq" pos="135.00,180.00" period="10.00" file="Ped3_AbajoIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E6_0" pos="93.29"/>
+        <detEntry lane="-E23_0" pos="4.56"/>
+        <detExit lane="-E6_0" pos="87.31"/>
+        <detExit lane="-E23_0" pos="10.12"/>
+        <detExit lane="E23_0" pos="76.20"/>
+        <detExit lane="E24_0" pos="4.62"/>
+        <detExit lane="-E24_0" pos="125.98"/>
+        <detExit lane="E6_0" pos="4.61"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped3_Arriba" pos="150.00,215.00" period="10.00" file="Ped3_Arriba.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E6_0" pos="4.60"/>
+        <detEntry lane="-E24_0" pos="125.94"/>
+        <detExit lane="-E6_0" pos="93.26"/>
+        <detExit lane="-E23_0" pos="4.51"/>
+        <detExit lane="E23_0" pos="76.15"/>
+        <detExit lane="E24_0" pos="4.70"/>
+        <detExit lane="-E24_0" pos="119.83"/>
+        <detExit lane="E6_0" pos="10.76"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped4_AbajoIzq" pos="280.00,180.00" period="10.00" file="Ped4_AbajoIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E25_0" pos="4.99"/>
+        <detEntry lane="E24_0" pos="125.24"/>
+        <detExit lane="E25_0" pos="120.57"/>
+        <detExit lane="-E24_0" pos="5.12"/>
+        <detExit lane="-E28_0" pos="84.00"/>
+        <detExit lane="E28_0" pos="4.58"/>
+        <detExit lane="-E25_0" pos="10.24"/>
+        <detExit lane="E24_0" pos="119.35"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped4_ArribaIzq" pos="280.00,215.00" period="10.00" file="Ped4_ArribaIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E28_0" pos="84.00"/>
+        <detEntry lane="-E24_0" pos="5.02"/>
+        <detExit lane="E28_0" pos="4.61"/>
+        <detExit lane="E24_0" pos="125.28"/>
+        <detExit lane="-E25_0" pos="4.96"/>
+        <detExit lane="E25_0" pos="120.59"/>
+        <detExit lane="-E28_0" pos="83.90"/>
+        <detExit lane="-E24_0" pos="11.17"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped4_Dcha" pos="315.00,200.00" period="10.00" file="Ped4_Dcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E25_0" pos="120.61"/>
+        <detEntry lane="E28_0" pos="4.61"/>
+        <detExit lane="-E25_0" pos="4.93"/>
+        <detExit lane="E24_0" pos="125.25"/>
+        <detExit lane="-E24_0" pos="4.98"/>
+        <detExit lane="-E28_0" pos="84.10"/>
+        <detExit lane="E28_0" pos="10.11"/>
+        <detExit lane="E25_0" pos="114.95"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped5_Abajo" pos="-75.00,30.00" period="10.00" file="Ped5_Abajo.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E30_0" pos="109.55"/>
+        <detEntry lane="E3_0" pos="4.89"/>
+        <detExit lane="E30_0" pos="5.25"/>
+        <detExit lane="-E31_0" pos="120.47"/>
+        <detExit lane="E31_0" pos="4.62"/>
+        <detExit lane="-E3_0" pos="57.96"/>
+        <detExit lane="E3_0" pos="10.46"/>
+        <detExit lane="-E30_0" pos="103.55"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped5_ArribaDcha" pos="-55.00,70.00" period="10.00" file="Ped5_ArribaDcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E3_0" pos="58.02"/>
+        <detEntry lane="E31_0" pos="4.71"/>
+        <detExit lane="-E31_0" pos="120.44"/>
+        <detExit lane="E30_0" pos="5.27"/>
+        <detExit lane="-E30_0" pos="109.54"/>
+        <detExit lane="E3_0" pos="4.93"/>
+        <detExit lane="-E3_0" pos="52.41"/>
+        <detExit lane="E31_0" pos="10.16"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped5_ArribaIzq" pos="-95.00,70.00" period="10.00" file="Ped5_ArribaIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E31_0" pos="120.46"/>
+        <detEntry lane="E30_0" pos="5.25"/>
+        <detExit lane="-E30_0" pos="109.60"/>
+        <detExit lane="E3_0" pos="4.92"/>
+        <detExit lane="-E3_0" pos="58.01"/>
+        <detExit lane="E31_0" pos="4.71"/>
+        <detExit lane="-E31_0" pos="114.91"/>
+        <detExit lane="E30_0" pos="10.91"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped6_Abajo" pos="5.00,30.00" period="10.00" file="Ped6_Abajo.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E3_0" pos="58.43"/>
+        <detEntry lane="-E4_0" pos="4.86"/>
+        <detExit lane="-E3_0" pos="4.78"/>
+        <detExit lane="E4_0" pos="76.06"/>
+        <detExit lane="-E0_0" pos="4.68"/>
+        <detExit lane="E0_0" pos="125.39"/>
+        <detExit lane="-E4_0" pos="10.30"/>
+        <detExit lane="E3_0" pos="52.86"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped6_Arriba" pos="-5.00,70.00" period="10.00" file="Ped6_Arriba.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E4_0" pos="76.01"/>
+        <detEntry lane="-E3_0" pos="4.81"/>
+        <detEntry lane="-E0_0" pos="4.71"/>
+        <detEntry lane="E0_0" pos="125.38"/>
+        <detExit lane="E3_0" pos="58.47"/>
+        <detExit lane="-E4_0" pos="4.79"/>
+        <detExit lane="E4_0" pos="70.53"/>
+        <detExit lane="-E0_0" pos="10.04"/>
+        <detExit lane="E0_0" pos="120.17"/>
+        <detExit lane="-E3_0" pos="10.01"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped7_AbajoIzq" pos="80.00,30.00" period="10.00" file="Ped7_AbajoIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E4_0" pos="76.01"/>
+        <detEntry lane="-E37_0" pos="4.81"/>
+        <detExit lane="E37_0" pos="70.81"/>
+        <detExit lane="E35_0" pos="4.77"/>
+        <detExit lane="-E35_0" pos="75.80"/>
+        <detExit lane="E38_0" pos="4.73"/>
+        <detExit lane="-E38_0" pos="27.67"/>
+        <detExit lane="E4_0" pos="5.00"/>
+        <detExit lane="-E4_0" pos="70.35"/>
+        <detExit lane="-E37_0" pos="10.49"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped7_Abajodcha" pos="120.00,30.00" period="10.00" file="Ped7_Abajodcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E37_0" pos="70.87"/>
+        <detEntry lane="E35_0" pos="4.72"/>
+        <detExit lane="-E35_0" pos="75.83"/>
+        <detExit lane="E38_0" pos="4.70"/>
+        <detExit lane="-E38_0" pos="27.67"/>
+        <detExit lane="E4_0" pos="5.00"/>
+        <detExit lane="-E4_0" pos="76.07"/>
+        <detExit lane="-E37_0" pos="4.83"/>
+        <detExit lane="E37_0" pos="65.30"/>
+        <detExit lane="E35_0" pos="10.76"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped7_ArribaIzq" pos="85.00,70.00" period="10.00" file="Ped7_ArribaIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E38_0" pos="27.69"/>
+        <detEntry lane="E4_0" pos="4.96"/>
+        <detExit lane="-E4_0" pos="76.03"/>
+        <detExit lane="-E37_0" pos="4.79"/>
+        <detExit lane="E37_0" pos="70.83"/>
+        <detExit lane="E35_0" pos="4.82"/>
+        <detExit lane="-E35_0" pos="75.80"/>
+        <detExit lane="E38_0" pos="4.70"/>
+        <detExit lane="-E38_0" pos="22.20"/>
+        <detExit lane="E4_0" pos="10.51"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped7_Arribadcha" pos="115.00,70.00" period="10.00" file="Ped7_Arribadcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E35_0" pos="75.76"/>
+        <detEntry lane="E38_0" pos="4.76"/>
+        <detExit lane="-E38_0" pos="27.64"/>
+        <detExit lane="E4_0" pos="5.02"/>
+        <detExit lane="-E4_0" pos="75.95"/>
+        <detExit lane="-E37_0" pos="4.75"/>
+        <detExit lane="E37_0" pos="70.85"/>
+        <detExit lane="E35_0" pos="4.75"/>
+        <detExit lane="-E35_0" pos="69.68"/>
+        <detExit lane="E38_0" pos="10.30"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped8_Abajo" pos="150.00,85.00" period="10.00" file="Ped8_Abajo.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E21_0" pos="32.59"/>
+        <detEntry lane="E22_0" pos="4.73"/>
+        <detExit lane="-E22_0" pos="32.79"/>
+        <detExit lane="E23_0" pos="4.69"/>
+        <detExit lane="-E23_0" pos="75.60"/>
+        <detExit lane="-E21_0" pos="4.69"/>
+        <detExit lane="E21_0" pos="26.68"/>
+        <detExit lane="E22_0" pos="10.69"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped8_ArribaDcha" pos="165.00,115.00" period="10.00" file="Ped8_ArribaDcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E22_0" pos="32.78"/>
+        <detEntry lane="E23_0" pos="4.75"/>
+        <detExit lane="-E23_0" pos="75.61"/>
+        <detExit lane="-E21_0" pos="4.69"/>
+        <detExit lane="E21_0" pos="32.57"/>
+        <detExit lane="E22_0" pos="4.74"/>
+        <detExit lane="-E22_0" pos="27.15"/>
+        <detExit lane="E23_0" pos="10.41"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped8_ArribaIzq" pos="135.00,115.00" period="10.00" file="Ped8_ArribaIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E23_0" pos="75.68"/>
+        <detEntry lane="-E21_0" pos="4.72"/>
+        <detExit lane="E21_0" pos="32.57"/>
+        <detExit lane="E22_0" pos="4.72"/>
+        <detExit lane="-E22_0" pos="32.79"/>
+        <detExit lane="E23_0" pos="4.70"/>
+        <detExit lane="-E23_0" pos="69.97"/>
+        <detExit lane="-E21_0" pos="10.72"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped9_Abajo" pos="185.00,30.00" period="10.00" file="Ped9_Abajo.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="E35_0" pos="75.80"/>
+        <detEntry lane="E7_0" pos="4.47"/>
+        <detEntry lane="-E7_0" pos="72.32"/>
+        <detEntry lane="E36_0" pos="4.77"/>
+        <detExit lane="-E36_0" pos="75.81"/>
+        <detExit lane="E20_0" pos="4.41"/>
+        <detExit lane="-E20_0" pos="27.91"/>
+        <detExit lane="-E35_0" pos="4.63"/>
+        <detExit lane="E35_0" pos="70.01"/>
+        <detExit lane="E7_0" pos="9.90"/>
+        <detExit lane="-E7_0" pos="66.54"/>
+        <detExit lane="E36_0" pos="10.52"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped9_ArribaDcha" pos="215.00,70.00" period="10.00" file="Ped9_ArribaDcha.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E36_0" pos="75.77"/>
+        <detEntry lane="E20_0" pos="4.47"/>
+        <detExit lane="-E20_0" pos="27.98"/>
+        <detExit lane="-E35_0" pos="4.64"/>
+        <detExit lane="E35_0" pos="75.84"/>
+        <detExit lane="E7_0" pos="4.47"/>
+        <detExit lane="-E7_0" pos="72.24"/>
+        <detExit lane="E36_0" pos="4.79"/>
+        <detExit lane="-E36_0" pos="69.66"/>
+        <detExit lane="E20_0" pos="9.84"/>
+    </entryExitDetector>
+    <entryExitDetector id="Ped9_ArribaIzq" pos="185.00,70.00" period="10.00" file="Ped9_ArribaIzq.xml" timeThreshold="0" speedThreshold="0.00">
+        <detEntry lane="-E20_0" pos="28.02"/>
+        <detEntry lane="-E35_0" pos="4.61"/>
+        <detExit lane="E35_0" pos="75.88"/>
+        <detExit lane="E7_0" pos="4.45"/>
+        <detExit lane="-E7_0" pos="72.25"/>
+        <detExit lane="E36_0" pos="4.79"/>
+        <detExit lane="-E36_0" pos="75.73"/>
+        <detExit lane="E20_0" pos="4.45"/>
+        <detExit lane="-E20_0" pos="22.59"/>
+        <detExit lane="-E35_0" pos="10.31"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh10_Horiz" pos="250.00,70.00" period="10.00" file="Veh10_Horiz.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E36_2" pos="4.58"/>
+        <detEntry lane="E36_1" pos="4.64"/>
+        <detEntry lane="-E39_1" pos="10.00"/>
+        <detEntry lane="-E39_2" pos="10.00"/>
+        <detExit lane="E39_2" pos="4.52"/>
+        <detExit lane="E39_1" pos="4.56"/>
+        <detExit lane="-E27_1" pos="4.57"/>
+        <detExit lane="-E27_2" pos="4.57"/>
+        <detExit lane="E25_2" pos="4.92"/>
+        <detExit lane="E25_1" pos="4.98"/>
+        <detExit lane="-E36_1" pos="4.86"/>
+        <detExit lane="-E36_2" pos="5.03"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh10_Vert" pos="320.00,100.00" period="10.00" file="Veh10_Vert.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="-E25_1" pos="4.91"/>
+        <detEntry lane="-E25_2" pos="4.91"/>
+        <detEntry lane="E27_2" pos="4.41"/>
+        <detEntry lane="E27_1" pos="4.46"/>
+        <detExit lane="-E36_1" pos="4.91"/>
+        <detExit lane="-E36_2" pos="4.98"/>
+        <detExit lane="E39_2" pos="4.50"/>
+        <detExit lane="E39_1" pos="4.57"/>
+        <detExit lane="-E27_1" pos="4.59"/>
+        <detExit lane="-E27_2" pos="4.59"/>
+        <detExit lane="E25_2" pos="4.94"/>
+        <detExit lane="E25_1" pos="4.99"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh11_Horiz" pos="100.00,-80.00" period="10.00" file="Veh11_Horiz.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="-E1_1" pos="4.98"/>
+        <detEntry lane="-E1_2" pos="4.76"/>
+        <detEntry lane="E29_1" pos="4.76"/>
+        <detEntry lane="E29_2" pos="4.72"/>
+        <detExit lane="-E29_2" pos="4.85"/>
+        <detExit lane="-E29_1" pos="4.78"/>
+        <detExit lane="E37_2" pos="4.68"/>
+        <detExit lane="E37_1" pos="4.68"/>
+        <detExit lane="E1_1" pos="4.78"/>
+        <detExit lane="E1_2" pos="4.82"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh11_Vert" pos="120.00,0.00" period="10.00" file="Veh11_Vert.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="-E37_1" pos="4.80"/>
+        <detEntry lane="-E37_2" pos="4.93"/>
+        <detExit lane="E1_1" pos="4.83"/>
+        <detExit lane="E1_2" pos="4.89"/>
+        <detExit lane="-E29_2" pos="4.87"/>
+        <detExit lane="-E29_1" pos="4.70"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh12" pos="200.00,-80.00" period="10.00" file="Veh12.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="-E29_2" pos="4.84"/>
+        <detEntry lane="-E29_1" pos="4.74"/>
+        <detEntry lane="-E26_1" pos="4.77"/>
+        <detEntry lane="-E26_2" pos="5.11"/>
+        <detExit lane="E26_2" pos="4.75"/>
+        <detExit lane="E26_1" pos="4.66"/>
+        <detExit lane="E29_1" pos="4.81"/>
+        <detExit lane="E29_2" pos="4.89"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh1_Horiz" pos="-140.00,200.00" period="10.00" file="Veh1_Horiz.xml" timeThreshold="0" speedThreshold="100.00">
+        <detExit lane="-E31_1" pos="4.45"/>
+        <detExit lane="-E31_2" pos="4.55"/>
+        <detExit lane="E5_2" pos="5.08"/>
+        <detExit lane="E5_1" pos="5.34"/>
+        <detEntry lane="E41_1" pos="11.36"/>
+        <detEntry lane="E41_0" pos="11.27"/>
+        <detEntry lane="-E5_1" pos="5.11"/>
+        <detEntry lane="-E5_2" pos="5.11"/>
+        <detExit lane="-E41_0" pos="5.60"/>
+        <detExit lane="-E41_1" pos="5.47"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh1_Vert" pos="-120.00,150.00" period="10.00" file="Veh1_Vert.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E31_2" pos="5.00"/>
+        <detEntry lane="E31_1" pos="5.00"/>
+        <detExit lane="E5_2" pos="5.00"/>
+        <detExit lane="E5_1" pos="5.18"/>
+        <detExit lane="-E41_1" pos="5.37"/>
+        <detExit lane="-E41_0" pos="5.57"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh2" pos="42.00,220.00" period="10.00" file="Veh2.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E5_2" pos="5.06"/>
+        <detEntry lane="E5_1" pos="5.18"/>
+        <detEntry lane="E6_1" pos="4.87"/>
+        <detEntry lane="E6_2" pos="4.98"/>
+        <detExit lane="-E5_1" pos="5.25"/>
+        <detExit lane="-E5_2" pos="5.18"/>
+        <detExit lane="-E6_2" pos="5.56"/>
+        <detExit lane="-E6_1" pos="5.56"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh3_Horiz" pos="150.00,220.00" period="10.00" file="Veh3_Horiz.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="-E6_2" pos="5.42"/>
+        <detEntry lane="-E6_1" pos="5.54"/>
+        <detEntry lane="-E24_1" pos="5.12"/>
+        <detEntry lane="-E24_2" pos="5.22"/>
+        <detExit lane="-E23_1" pos="4.57"/>
+        <detExit lane="E6_1" pos="5.00"/>
+        <detExit lane="E6_2" pos="5.00"/>
+        <detExit lane="E24_2" pos="5.04"/>
+        <detExit lane="E24_1" pos="5.04"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh3_Vert" pos="130.00,150.00" period="10.00" file="Veh3_Vert.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E23_1" pos="4.85"/>
+        <detExit lane="E24_2" pos="5.04"/>
+        <detExit lane="E24_1" pos="4.96"/>
+        <detExit lane="E6_1" pos="5.07"/>
+        <detExit lane="E6_2" pos="4.98"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh4_Horiz" pos="250.00,220.00" period="10.00" file="Veh4_Horiz.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E24_2" pos="5.04"/>
+        <detEntry lane="E24_1" pos="4.99"/>
+        <detExit lane="E28_2" pos="4.76"/>
+        <detExit lane="E28_1" pos="4.76"/>
+        <detExit lane="-E25_1" pos="4.94"/>
+        <detExit lane="-E25_2" pos="4.98"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh4_Vert" pos="330.00,150.00" period="10.00" file="Veh4_Vert.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E25_2" pos="4.92"/>
+        <detEntry lane="E25_1" pos="4.97"/>
+        <detEntry lane="-E28_1" pos="10.05"/>
+        <detEntry lane="-E28_2" pos="10.10"/>
+        <detExit lane="-E24_1" pos="5.18"/>
+        <detExit lane="-E24_2" pos="5.23"/>
+        <detExit lane="E28_2" pos="4.66"/>
+        <detExit lane="E28_1" pos="4.80"/>
+        <detExit lane="-E25_1" pos="4.90"/>
+        <detExit lane="-E25_2" pos="4.90"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh5_Horiz" pos="-75.00,20.00" period="10.00" file="Veh5_Horiz.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="-E30_2" pos="13.25"/>
+        <detEntry lane="-E30_1" pos="13.08"/>
+        <detEntry lane="-E3_1" pos="4.87"/>
+        <detEntry lane="-E3_2" pos="4.80"/>
+        <detExit lane="E31_2" pos="4.64"/>
+        <detExit lane="E31_1" pos="4.71"/>
+        <detExit lane="E3_2" pos="4.93"/>
+        <detExit lane="E3_1" pos="4.89"/>
+        <detExit lane="E30_1" pos="5.53"/>
+        <detExit lane="E30_2" pos="5.69"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh5_Vert" pos="-120.00,130.00" period="10.00" file="Veh5_Vert.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="-E31_1" pos="4.65"/>
+        <detEntry lane="-E31_2" pos="4.74"/>
+        <detExit lane="E30_1" pos="5.49"/>
+        <detExit lane="E30_2" pos="5.67"/>
+        <detExit lane="E3_2" pos="4.94"/>
+        <detExit lane="E3_1" pos="4.90"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh6" pos="5.00,20.00" period="10.00" file="Veh6.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E3_2" pos="4.93"/>
+        <detEntry lane="E3_1" pos="4.88"/>
+        <detEntry lane="E4_1" pos="5.06"/>
+        <detEntry lane="E4_2" pos="5.10"/>
+        <detExit lane="-E3_1" pos="4.86"/>
+        <detExit lane="-E3_2" pos="4.81"/>
+        <detExit lane="-E4_2" pos="4.70"/>
+        <detExit lane="-E4_1" pos="4.66"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh7_Horiz" pos="50.00,80.00" period="10.00" file="Veh7_Horiz.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="-E4_2" pos="4.66"/>
+        <detEntry lane="-E4_1" pos="4.61"/>
+        <detEntry lane="-E35_1" pos="4.67"/>
+        <detEntry lane="-E35_2" pos="4.67"/>
+        <detExit lane="-E37_1" pos="4.71"/>
+        <detExit lane="-E37_2" pos="4.71"/>
+        <detExit lane="E35_2" pos="4.64"/>
+        <detExit lane="E35_1" pos="4.59"/>
+        <detExit lane="E38_1" pos="4.76"/>
+        <detExit lane="E4_1" pos="5.15"/>
+        <detExit lane="E4_2" pos="5.15"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh7_Vert" pos="70.00,0.00" period="10.00" file="Veh7_Vert.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E37_2" pos="4.45"/>
+        <detEntry lane="E37_1" pos="4.62"/>
+        <detEntry lane="-E21_1" pos="4.76"/>
+        <detExit lane="E35_2" pos="4.48"/>
+        <detExit lane="E35_1" pos="4.48"/>
+        <detExit lane="E4_1" pos="5.15"/>
+        <detExit lane="E4_2" pos="5.15"/>
+        <detExit lane="E38_1" pos="4.68"/>
+        <detExit lane="-E37_1" pos="4.70"/>
+        <detExit lane="-E37_2" pos="4.79"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh8_Horiz" pos="150.00,80.00" period="10.00" file="Veh8_Horiz.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E38_1" pos="4.70"/>
+        <detEntry lane="E20_1" pos="4.51"/>
+        <detExit lane="E22_1" pos="4.74"/>
+        <detExit lane="E23_1" pos="4.88"/>
+        <detExit lane="-E21_1" pos="4.80"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh8_Vert" pos="165.00,150.00" period="10.00" file="Veh8_Vert.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="-E23_1" pos="4.66"/>
+        <detExit lane="-E21_1" pos="4.76"/>
+        <detExit lane="E22_1" pos="4.68"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh9_Horiz" pos="150.00,70.00" period="10.00" file="Veh9_Horiz.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E35_2" pos="4.54"/>
+        <detEntry lane="E35_1" pos="4.50"/>
+        <detEntry lane="-E36_1" pos="4.82"/>
+        <detEntry lane="-E36_2" pos="4.90"/>
+        <detExit lane="E20_1" pos="4.41"/>
+        <detExit lane="E36_2" pos="4.65"/>
+        <detExit lane="E36_1" pos="4.59"/>
+        <detExit lane="-E35_1" pos="4.68"/>
+        <detExit lane="-E35_2" pos="4.71"/>
+    </entryExitDetector>
+    <entryExitDetector id="Veh9_Vert" pos="215.00,80.00" period="10.00" file="Veh9_Vert.xml" timeThreshold="0" speedThreshold="100.00">
+        <detEntry lane="E22_1" pos="4.60"/>
+        <detExit lane="-E35_1" pos="4.72"/>
+        <detExit lane="-E35_2" pos="4.72"/>
+        <detExit lane="E36_2" pos="4.64"/>
+        <detExit lane="E36_1" pos="4.55"/>
+    </entryExitDetector>
+</additional>
