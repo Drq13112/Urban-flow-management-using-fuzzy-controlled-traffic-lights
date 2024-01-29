@@ -22,8 +22,8 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#results">Results</a></li>
+    <li><a href="#contact">Results</a></li>
   </ol>
 </details>
 
@@ -59,9 +59,12 @@ In case someone wants to use it, it is necessary to install the sumo simulator a
 ![Picture](./Graficas/Mapa_Grande/Semaforos/ComparacionSemaforosMediaFrec.png)
 ![Picture](./Graficas/Mapa_Grande/Vehiculos/ComparacionMediaFrec.png)
 
-<!-- LICENSE -->
-## License
 
-Distributed under the BSD 3-Clause License. See `LICENSE.txt` for more information.
+<!-- CONTACT -->
+## Contact
+Shota - shota99@hotmail.es\
+David Redondo - [Drq13112](https://github.com/Drq13112) - david.redquin@gmail.com\
+Pablo - pablo99vs@gmail.com\
+Carlos Prudencio - Carlos.pru11@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
