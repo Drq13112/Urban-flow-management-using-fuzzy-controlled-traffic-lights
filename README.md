@@ -23,6 +23,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
+    <li><a href="#results">Results</a></li>
   </ol>
 </details>
 
@@ -39,21 +40,23 @@ To do this, it is necessary to sensor the roads and pavements, thus informing th
 
 The framework used was SUMO; https://eclipse.dev/sumo/
 
-![Basic map](./figs/Basic.png)
+![Basic map](demo_basic.png)
 *Figure 1: Basic pedestrian crossing.*
 
 Simple pedestrian crossing to test the dynamics of the Sumo simulator. It is also intended to examine whether the implementation of a fuzzy control offers immediate improvements.
 
-![Map of testing](figs/map.png)
+![Map of testing](map.png)
 *Figure 2: Map of testing.*
 
 ## Usage
 The following is a short video demonstrating the operation of the developed project.
-![The gif](./figs/demo.gif)
+![The gif](demo.gif)
 
 In case someone wants to use it, it is necessary to install the sumo simulator and the scripst.py. Once downloaded and configured, set the execution path for the .py scripts and run them.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Results
 
 <!-- LICENSE -->
 ## License
