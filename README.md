@@ -54,14 +54,14 @@ The following is a short video demonstrating the operation of the developed proj
 
 In case someone wants to use it, it is necessary to install the sumo simulator and the scripst.py. Once downloaded and configured, set the execution path for the .py scripts and run them.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Results
 
 ![The gif](./Graficas/Mapa_Grande/Semaforos/ComparacionSemaforosMediaFrec.png)
-![The gif](./Graficas/Mapa_Grande/Vehículos/ComparacionSemaforosMediaFrec.png)
+![The gif](./Graficas/Mapa_Grande/Vehiculos/ComparacionSemaforosMediaFrec.png)
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the BSD 3-Clause License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
