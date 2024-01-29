@@ -56,8 +56,8 @@ In case someone wants to use it, it is necessary to install the sumo simulator a
 
 ## Results
 
-![The gif](./Graficas/Mapa_Grande/Semaforos/ComparacionSemaforosMediaFrec.png)
-![The gif](./Graficas/Mapa_Grande/Vehiculos/ComparacionSemaforosMediaFrec.png)
+![Picture](./Graficas/Mapa_Grande/Semaforos/ComparacionSemaforosMediaFrec.png)
+![Picture](./Graficas/Mapa_Grande/Vehiculos/ComparacionMediaFrec.png)
 
 <!-- LICENSE -->
 ## License
