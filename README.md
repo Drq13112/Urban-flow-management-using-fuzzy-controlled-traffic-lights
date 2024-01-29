@@ -42,7 +42,7 @@ To do this, it is necessary to sensor the roads and pavements, thus informing th
 The framework used was SUMO; https://eclipse.dev/sumo/
 
 ![Basic map](./figs/Basic.png)
-*Figure 1: Basic pedestrian crossing *
+*Figure 1: Basic pedestrian crossing.*
 
 Simple pedestrian crossing to test the dynamics of the Sumo simulator. It is also intended to examine whether the implementation of a fuzzy control offers immediate improvements.
 
