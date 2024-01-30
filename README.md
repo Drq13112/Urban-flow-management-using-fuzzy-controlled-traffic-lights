@@ -63,7 +63,7 @@ In case someone wants to use it, it is necessary to install the sumo simulator a
 <!-- CONTACT -->
 ## Contact
 Shota - shota99@hotmail.es\
-David Redondo - [Drq13112](https://github.com/Drq13112) - david.redquin@gmail.com\
+David Redondo - [Drq13112](https://github.com/Drq13112) - davidredquin@gmail.com\
 Pablo - pablo99vs@gmail.com\
 Carlos Prudencio - Carlos.pru11@gmail.com
 
